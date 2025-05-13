@@ -1,2 +1,36 @@
-# mcx
-Dotmini MCX Detector For Paid Customer . B2B
+**🚀 Dotmini MCX**
+==================
+
+**Dotmini MCX** เป็นแอปพลิเคชัน macOS ที่พัฒนาด้วย Python โดยใช้ PyInstaller เพื่อสร้างแอปแบบ Universal2 ซึ่งสามารถทำงานได้ทั้งบนเครื่อง Mac ที่ใช้ชิป Intel และ Apple Silicon
+
+**🧰 คุณสมบัติ**
+----------------
+
+-   ✅ รองรับสถาปัตยกรรม Universal2 (x86_64 และ arm64)
+
+-   🎨 อินเทอร์เฟซผู้ใช้ที่ทันสมัยและเป็นมิตรกับผู้ใช้
+
+-   🐍 พัฒนาโดยใช้ Python 3.10 หรือใหม่กว่า
+
+-   🧱 บรรจุแอปพลิเคชันด้วย PyInstaller
+
+-   📦 แจกจ่ายในรูปแบบ .app และ .dmg
+
+**📦 การติดตั้ง**
+-----------------
+
+### **🔧 ข้อกำหนดเบื้องต้น**
+
+-   macOS 10.15 Catalina หรือใหม่กว่า
+
+-   Python 3.10 หรือใหม่กว่า (Universal2)
+
+-   ติดตั้ง PyInstaller
+
+### **🛠️ การติดตั้ง PyInstaller**
+
+ติดตั้ง PyInstaller ด้วยคำสั่ง: 
+
+'''
+pip install pyinstaller
+'''
