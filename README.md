@@ -31,6 +31,7 @@
 
 ติดตั้ง PyInstaller ด้วยคำสั่ง: 
 
-'''
+```
 pip install pyinstaller
-'''
+```
+
